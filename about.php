@@ -22,7 +22,9 @@
         <h2 class="text-center"> About Us </h2>
     </div>
     <div class="container-fluid">
+      <div class="row">
         <div class="col-lg-6 col-md-6 col-12">
+            <img src="images/pic2.jpeg" class="img-fluid aboutimg">
         </div>
         <div class="col-lg-6 col-md-6 col-12"> 
             <h2 class="display-4 py-4"> Coding Classes </h2>
